@@ -12,7 +12,7 @@ This repository is a ready-to-run prototype that implements an AI agent which:
 ## Features (MVP)
 - Natural language input -> LLM (Gemini) parses origin, destination, constraints.
 - Amap API integration for geocoding and route guidance.
-- A* planner that can refine Amap polyline into waypoint graph planning.
+- A* planner that can refine Amap polyline into waypoint graph planning.（It didn't work well after actual testing, so I've given up）
 - Gradio UI with map preview, 3D visualization using Three.js, and export options.
 
 ## Requirements
