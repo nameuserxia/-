@@ -1,0 +1,10 @@
+google-generativeai>=0.14.0
+gradio
+requests
+numpy
+networkx
+simplekml
+gpxpy
+pymavlink
+python-dotenv
+folium
